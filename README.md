@@ -1,4 +1,4 @@
-## Oiii, como você está? 👊😁🤔 Seja bem-vindo(a) ao meu perfil!!! 🖐😁👍
+## Oiii, como você está? 👊😁🤔 Seja bem-vindo(a) ao meu perfil!!! 🖐😁
 
  <nav>
    <a href="https://github.com/souteus">
