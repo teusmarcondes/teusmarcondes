@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/java.svg"
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/php.svg">
 </div>
  
  <br>
