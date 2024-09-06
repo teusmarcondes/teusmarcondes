@@ -1,4 +1,4 @@
-## Seja bem-vindo(a) ao meu perfil!!!🖐😁
+## Seja bem-vindo(a) ao meu perfil!🖐😁
 
  <nav>
    <a href="https://github.com/souteus">
